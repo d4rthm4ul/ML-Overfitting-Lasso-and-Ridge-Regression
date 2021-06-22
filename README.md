@@ -1,0 +1,1 @@
+It is an intermediate level script helps you to find an answer for "How does overfitting look like?" question. In this script you will learn about overfitting and how to handle it. Lasso Regression and Ridge Regression will help you to do that. Also you will understand how Lasso and Ridge Regression work. Do not be shy to fork and make contribute.
